@@ -1,2 +1,1 @@
-# school
-code of NIT
+
